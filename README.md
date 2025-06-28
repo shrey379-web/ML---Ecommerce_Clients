@@ -43,16 +43,3 @@ This model can help ecommerce businesses better understand customer behavior and
 
 ---
 
-## 🤝 Let’s Connect!
-
-This project gave me valuable hands-on experience in **supervised learning**, and strengthened my interest in **Data Science & AI**.  
-I'm eager to keep learning and building more! 🚀
-
-Feel free to share feedback or connect if you're also into ML!  
-Let's grow together. 💡
-
----
-
-## 📌 Tags
-
-`#MachineLearning` `#LinearRegression` `#Python` `#ScikitLearn` `#DataScience` `#EcommerceAnalytics` `#FirstProject`
